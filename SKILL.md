@@ -4,11 +4,40 @@ description: Auto-generate structured weekly/daily/monthly reports from scattere
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: [reporting, status-update, productivity, standup, writing]
+tags: "[reporting, status-update, productivity, standup, writing]"
 metadata:
-  pricing: $9 / one-time (Pro pack with monthly + multi-audience templates $29)
-  category: business-automation
-  audience: individual-contributors, managers
+
+pricing:
+  free: Free — 3 reports/week, single audience, no charts
+  pro: $9/month — unlimited + monthly template + multi-audience versions + chart suggestions
+  annual: $90/year
+  pay_per_use: $5 one-time (single custom report)
+  enterprise: $99/month (team template + bulk generation)
+tiers:
+  - id: free
+    name: Free
+    price: Free
+    quota: Free — 3 reports/week, single audience, no charts
+  - id: pro
+    name: Pro Monthly
+    price: $9/month — unlimited + monthly template + multi-audience versions + chart suggestions
+    quota: unlimited
+  - id: annual
+    name: Pro Annual
+    price: $90/year
+    quota: unlimited
+  - id: enterprise
+    name: Enterprise
+    price: $99/month (team template + bulk generation)
+    quota: team unlimited
+monetization:
+  model: freemium_subscription
+  currency: USD
+  paywall_trigger: free quota exhausted
+  trial_days: 7
+  free_trial: true
+  upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
+
 ---
 
 # Weekly Report Pack
