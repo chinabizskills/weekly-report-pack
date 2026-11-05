@@ -3,7 +3,7 @@
 > Auto-generate structured weekly/daily/monthly reports from scattered work traces — chats, todos, calendar, git commits, notes. Quantified wins, risks with actions taken, deliverable-oriented next steps. Multi-audience versions (manager / cross-team / exec).
 
 **Category:** business-automation  |  **License:** CC-BY-4.0  |  **Version:** 1.0.0
-**Price:** Free on GitHub & skills.sh (CC BY 4.0). Curated bundle on Gumroad: $9 (Pro $29).
+**Price:** Free on GitHub & skills.sh (CC BY 4.0). Pro & Enterprise on Agensi: $9/month · $90/year · $99/month.
 
 ## What it does
 
@@ -37,7 +37,19 @@ Or clone: `git clone https://github.com/chinabizskills/weekly-report-pack.git`
 
 ## Pricing & license
 
-Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required). A curated, expanded bundle (with the Pro templates) is sold on Gumroad for $9 (Pro $29). The free GitHub/skills.sh version is the complete, working skill.
+Free on GitHub & skills.sh under **CC BY 4.0** — the complete core workflow, free to use, share and adapt (attribution required).
+Pro and Enterprise are subscriptions on Agensi:
+
+| Tier | Price | What you get |
+|---|---|---|
+| Free | $0 | 3 reports/week, single audience, no charts |
+| Pro Monthly | $9/month | unlimited + monthly template + multi-audience versions + chart suggestions |
+| Pro Annual | $90/year | Same Pro benefits, billed yearly |
+| Enterprise | $99/month | team template + bulk generation |
+
+Subscribe: https://www.agensi.io/skills/weekly-report-pack
+
+Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required).
 
 ## Tags
 
