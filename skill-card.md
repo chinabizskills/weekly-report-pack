@@ -18,7 +18,7 @@ Auto-generate structured weekly/daily/monthly reports from scattered work traces
 
 ## Pricing
 
-Free (CC BY 4.0) on GitHub & skills.sh. Curated bundle on Gumroad: $9 (Pro $29).
+Free (CC BY 4.0) on GitHub & skills.sh. Pro $9/month · Pro Annual $90/year · Enterprise $99/month on Agensi: https://www.agensi.io/skills/weekly-report-pack
 
 ## Known Risks and Mitigations
 
